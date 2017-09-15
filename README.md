@@ -9,3 +9,5 @@ Here I will *commit*, _pull_ and *push* plaintext documents and `code`.
 ![A tSNE graph.](tSNE_1k_point6_30perplexity.png)
 
 A typo
+
+A wonderful new line of text in RStudio
