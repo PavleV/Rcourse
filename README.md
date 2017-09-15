@@ -11,3 +11,5 @@ Here I will *commit*, _pull_ and *push* plaintext documents and `code`.
 A typo
 
 A wonderful new line of text in RStudio
+
+Another line added in the browser
